@@ -1,6 +1,7 @@
-# FIT1008 Introduction to Computer Science Resources
+# FIT1008-FIT2085 Fundamentals of algorithms - S1 2026
 
 This repository contains FIT1008 learning resources, including course slides, quizzes, assessments, coding projects, and theory test sample papers.
+These materials are shared free of charge to support students studying courses at M University. Please do not use them for any commercial purpose.
 
 ## Resources
 
